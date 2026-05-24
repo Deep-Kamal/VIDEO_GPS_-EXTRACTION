@@ -8,12 +8,12 @@
 
 | Field | Value |
 |---|---|
-| **File** | `Eng_clg_60504PMByGPSMapCamera.mp4` |
-| **Location** | Mohibllapur, Lucknow, Uttar Pradesh, India |
-| **Date** | Wednesday, 20 May 2026 |
-| **Start time** | 06:05:04 PM IST (UTC+05:30) |
-| **End time** | 06:06:13 PM IST |
-| **Duration** | 69 seconds |
+| **File** | `Path of the video` |
+| **Location** | |
+| **Date** |  |
+| **Start time** |  |
+| **End time** |  |
+| **Duration** |  |
 | **Resolution** | 1088 × 1440 px |
 | **FPS** | 29.97 |
 | **File size** | ~127 MB |
@@ -357,4 +357,4 @@ MIT License — free to use, modify and distribute.
 
 ---
 
-*Generated from `Eng_clg_60504PMByGPSMapCamera.mp4` · Lucknow, UP, India · 20 May 2026*
+*Generated from `Video Path`·*
