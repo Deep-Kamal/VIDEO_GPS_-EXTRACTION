@@ -21,7 +21,7 @@
 ---
 
 ## 🗺️ Route Map
-
+                      
 The full GPS track extracted from the video — vehicle travels east-to-west initially then turns sharply northward along Mohibllapur road.
 
 ![Full GPS Route](map_full_route.png)
