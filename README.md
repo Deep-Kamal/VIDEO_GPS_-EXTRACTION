@@ -8,7 +8,7 @@
 
 | Field | Value |
 |---|---|
-| **File** | `Path of the video` |
+| **File** | `Path of the video` | 
 | **Location** | |
 | **Date** |  |
 | **Start time** |  |
