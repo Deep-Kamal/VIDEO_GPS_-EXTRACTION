@@ -4,7 +4,7 @@
 
 --- 
 
-## 📍 Sample Video Details
+## 📍 Sample Video Details  
 
 | Field | Value |
 |---|---|
