@@ -11,7 +11,7 @@
 | **File** | `Path of the video` | 
 | **Location** | |
 | **Date** |  |
-| **Start time** |  |
+| **Start time** |  |  
 | **End time** |  |
 | **Duration** |  |
 | **Resolution** | 1088 × 1440 px |
