@@ -5,7 +5,7 @@
 --- 
 
 ## 📍 Sample Video Details  
-
+  
 | Field | Value |
 |---|---|
 | **File** | `Path of the video` | 
