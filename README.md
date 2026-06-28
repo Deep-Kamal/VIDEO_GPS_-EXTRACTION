@@ -12,7 +12,7 @@
 | **Location** | |
 | **Date** |  |
 | **Start time** |  |  
-| **End time** |  |
+| **End time** |  |   
 | **Duration** |  |
 | **Resolution** | 1088 × 1440 px |
 | **FPS** | 29.97 |
