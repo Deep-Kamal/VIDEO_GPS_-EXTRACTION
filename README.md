@@ -1,6 +1,6 @@
 # 🛰️ GPS Track Extractor — GPSMapCamera MP4  
 
-> Extracts continuous GPS coordinates burned as overlay text into video frames recorded with the **GPSMapCamera** Android app. Outputs a clean CSV, interactive map, and time-series charts — no GPS metadata required.
+> Extracts continuous GPS coordinates burned as overlay text into video frames recorded with the **GPSMapCamera** Android app. Outputs a clean CSV, interactive map, and time-series charts — no GPS metadata required.  
 
 --- 
 
